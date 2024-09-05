@@ -3,13 +3,13 @@ The FizzBuzz game is an engaging challenge that tests your ability to classify n
 # Computer-Generated Numbers:
 At the beginning of each round, the computer will generate a random number. Your task is to classify it as "Fizz," "Buzz," "FizzBuzz," or "Empty."
 
-# Fizz:Numbers divisible by 3.
+## Fizz:Numbers divisible by 3.
 
-# Buzz: Numbers divisible by 5.
+## Buzz: Numbers divisible by 5.
 
-# FizzBuzz: Numbers divisible by both 3 and 5.
+## FizzBuzz: Numbers divisible by both 3 and 5.
 
-# Empty: Numbers that do not fit any of these categories
+## Empty: Numbers that do not fit any of these categories
 
 # 2-  Interactive Classification: 
 
